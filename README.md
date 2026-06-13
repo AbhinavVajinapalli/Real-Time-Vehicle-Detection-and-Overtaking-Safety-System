@@ -1,4 +1,4 @@
-# Real-Time Vehicle Detection & Overtaking Safety Assessment
+# Real-Time Vehicle Detection & Overtaking Safety Assessment System
 
 ## Overview
 This project implements **two end-to-end vehicle detection pipelines** for real-time traffic surveillance and driving analytics:
